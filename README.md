@@ -51,10 +51,9 @@ Briefly considered other potential models like Prophet, LSTM, etc. (Further expl
 
 Calculated evaluation metrics such as Mean Squared Error (MSE) and Mean Absolute Error (MAE) to assess the performance of the models.
 Visualized actual vs. predicted values to understand the model's fit.
-Key Findings
-[Summarize your main findings from the data exploration and model evaluation here. Mention any interesting trends, patterns, or insights you discovered]
 
 >Future Work
+
 Experiment with other models: Explore and evaluate the performance of other time series models (SARIMA) and machine learning models (LSTM, Random Forest, XGBoost).
 Hyperparameter tuning: Fine-tune the hyperparameters of the models to potentially improve their performance.
 Incorporate additional features: Consider including other potentially relevant features such as macroeconomic indicators or sentiment analysis data.
