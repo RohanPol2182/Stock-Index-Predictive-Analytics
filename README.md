@@ -44,8 +44,7 @@ Modeling and Prediction
 
 Split the data into training and testing sets.
 Trained and evaluated a Linear Regression model to predict future Nifty closing prices.
-Explored the use of ARIMA (AutoRegressive Integrated Moving Average) models for forecasting.
-Briefly considered other potential models like Prophet, LSTM, etc. (Further exploration can be done in future work).
+Explored the use of Prophet, ARIMA (AutoRegressive Integrated Moving Average) models for forecasting.
 
 >Evaluation
 
